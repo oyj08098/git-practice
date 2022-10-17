@@ -1,0 +1,144 @@
+    1  pwd
+    2  ls
+    3  cd OSS
+    4  cd Links
+    5  pwd
+    6  cd.
+    7  cd/
+    8  cd .
+    9  pwd
+   10  cd ..
+   11  pwd
+   12  pwd
+   13  ls
+   14  cd OSS
+   15  pwd
+   16  ls
+   17  cd /c/Users/oyj08
+   18  pwd
+   19  ls -1
+   20  ls-l
+   21  ls -lh
+   22  cd OSS
+   23  ls
+   24  ls-lh
+   25  ls -ls
+   26  ls - lh
+   27  clear
+   28  pwd
+   29  ls
+   30  cd ..
+   31  ls
+   32  ls -lh
+   33  cd OSS
+   34  ls
+   35  ls -lh
+   36  cp 신데렐라.txt 신데렐라_복사.txt
+   37  ls -lh
+   38  mv 신데렐라_복사.txt tlsepfpffk.txt
+   39  ls -lh
+   40  mkdir new
+   41  ls
+   42  cd new
+   43  pwd
+   44  ls
+   45  cd ..
+   46  ls -lh
+   47  ls -lh > file_list.txt
+   48  cat file_list.txt
+   49  pwd
+   50  ls -lh >> file_list.txt
+   51  cat ffile_list.txt
+   52  cat file_list.txt
+   53  sort < file_list.txt > sort_f_l.txt
+   54  cat sort_f_l.txt
+   55  ls | wc -l
+   56  echo *
+   57  echo ~
+   58  chmod 644 file_list.txt
+   59  ls -lh
+   60  comod 700 file_list.txt
+   61  chmod 700 file_list.txt
+   62  ls -lh
+   63  pwd
+   64  git init
+   65  ls -lh
+   66  git status
+   67  git add file_list.txt
+   68  git add sort_f_l.txt
+   69  git config -- global user.name "Yejin Oh"
+   70  git config --global user.name "Yejin Oh"
+   71  git config --global user.email oyj08098@gachon.ac.kr
+   72  git config --list
+   73  pwd
+   74  git init
+   75  ls -lha
+   76  git status
+   77  git rm --cached file_list.txt
+   78  git status
+   79  git add file_list.txt
+   80  git status
+   81  git commit -m "other"
+   82  git mv file_list.txt f_l.txt
+   83  git status
+   84  git commit -m "new"
+   85  git log
+   86  git reset HEAD f_l.txt
+   87  git status
+   88  git add f_l.txt sort_f_l.txt
+   89  sit status
+   90  git status
+   91  ls -lh > f_l.txt
+   92  sort < f_1 > sort_f_l.txt
+   93  sort < f_l.txt > sort_f_l.txt
+   94  git add f_l.txt sort_f_l.txt
+   95  sit status
+   96  git status
+   97  git restore f_l.txt
+   98  git status
+   99  git remote add origin https://github.com/oyj08098/git-practice.git
+  100  git remote -v
+  101  git push -u origin master
+  102  git push -u origin master
+  103  ls-lh
+  104  ls -lh
+  105  clear
+  106  ls -lh
+  107  ls -lh > file_list.txt
+  108  ls -lh >> file_list.txt
+  109  sort < file_list.txt > sort_file_list.txt
+  110  cat sort_file_list.txt
+  111  cat words.txt
+  112  sort < words.txt > sorted_words.txt
+  113  cat sorted_words.txt
+  114  git config --global init.defaultBranch main
+  115  nano words.txt
+  116  ls -lh
+  117  git add file_list.txt sort_file_list.txt
+  118  git status
+  119  git add words.txt sorted_words.txt
+  120  git status
+  121  git commit -m "initial commit"
+  122  git status
+  123  git add words.txt
+  124  sit status
+  125  git status
+  126  git status
+  127  git commmit -m "add"
+  128  git remote add origin https://github.com/oyj08098/git-practice.git
+  129  git remote -v
+  130  git push -u origin main
+  131  history
+  132  history 72
+  133  git config --list
+  134  git push -u origin main
+  135  git push -u origin master
+  136  git commit -m "add"
+  137  git push -u origin master
+  138  ls -lh
+  139  git status
+  140  git add f_l.txt
+  141  git add sort_f_l.txt
+  142  git status
+  143  got commit -m "other"
+  144  history > history.txt
