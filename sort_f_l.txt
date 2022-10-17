@@ -1,0 +1,20 @@
+-rw-r--r-- 1 oyj08 197609    0 Oct 18 00:30 file_list.txt
+-rw-r--r-- 1 oyj08 197609  17K Oct  9 00:41 오예진_1~4주차_소감.docx
+-rw-r--r-- 1 oyj08 197609  17K Oct  9 00:41 오예진_1~4주차_소감.docx
+-rw-r--r-- 1 oyj08 197609  577 Oct 18 00:30 file_list.txt
+-rw-r--r-- 1 oyj08 197609 107K Oct 17 02:16 파이썬 총 코드.pdf
+-rw-r--r-- 1 oyj08 197609 107K Oct 17 02:16 파이썬 총 코드.pdf
+-rw-r--r-- 1 oyj08 197609 4.1M Oct  3 23:25 19조 캔두이노 1주차 발표자료.pptx
+-rw-r--r-- 1 oyj08 197609 4.1M Oct  3 23:25 19조 캔두이노 1주차 발표자료.pptx
+-rw-r--r-- 1 oyj08 197609 6.8K Oct  3 17:20 신데렐라.txt
+-rw-r--r-- 1 oyj08 197609 6.8K Oct  3 17:20 신데렐라.txt
+-rw-r--r-- 1 oyj08 197609 6.8K Oct 18 00:25 tlsepfpffk.txt
+-rw-r--r-- 1 oyj08 197609 6.8K Oct 18 00:25 tlsepfpffk.txt
+drwxr-xr-x 1 oyj08 197609    0 Oct 18 00:20 gkskenf/
+drwxr-xr-x 1 oyj08 197609    0 Oct 18 00:20 gkskenf/
+drwxr-xr-x 1 oyj08 197609    0 Oct 18 00:20 tlftmq/
+drwxr-xr-x 1 oyj08 197609    0 Oct 18 00:20 tlftmq/
+drwxr-xr-x 1 oyj08 197609    0 Oct 18 00:28 new/
+drwxr-xr-x 1 oyj08 197609    0 Oct 18 00:28 new/
+total 4.2M
+total 4.2M
